@@ -1,0 +1,10 @@
+Queue:
+A queue is a linear data structure that follows the First-In-First-Out (FIFO) principle.
+It is an abstract data type that represents a collection of elements with two main operations:
+enqueue and dequeue
+
+The other operations can be : check if full/empty,
+							  count the number of elements, 
+							  display elements.
+
+a queue can be implemented using arrays or linked lists.

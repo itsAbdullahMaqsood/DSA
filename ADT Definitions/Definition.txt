@@ -1,0 +1,8 @@
+
+ADT is short for Abstract Data Types
+
+it is used to refer to stack, Heap, Queue, Linked List
+
+When we say we need to use the "stack" ADT for this program. we are talking in general terms
+e.g. 
+in C++ a dynamic array is made using a "Vector" keyword while the same thing in C# is done using the "List" keyword.
